@@ -1,8 +1,12 @@
-Unit Testing
-What is unit Testing?
-Unit Testing is conducted by the developers
-It is type of (blackbox/whitebox testing)
-Integration Testing
-What is Integration Testing?
-Integration Testing is conducted by the developers
-It is type of (blackbox/whitebox testing)
+Updated by 10 Chiang Zijun.
+
+System Testing
+System testing is the execution of the software in its final configuration, including
+integration with other software and hardware systems.
+System testing is conducted by the programmer who writes the code.
+It is a type of blackbox testing.
+
+Acceptance Testing
+User Acceptance Testing is the final test before the customer signs-off and accepts it.
+User Acceptance Testing is conducted by the end users of the software. They can be the customers themselves or the customer's customers.
+It is a type of blackbox testing
